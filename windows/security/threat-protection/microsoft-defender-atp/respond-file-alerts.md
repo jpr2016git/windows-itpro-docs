@@ -221,7 +221,7 @@ You can also manually submit a sample through the [Microsoft Security Center Por
 > [!NOTE]
 > Due to backend processing flows in the Microsoft Security Center Portal, there could be up to 10 minutes of latency between file submission and availability of the deep analysis feature in Microsoft Defender ATP.
 
-When the sample is collected, Microsoft Defender ATP runs the file in is a secure environment and creates a detailed report of observed behaviors and associated artifacts, such as files dropped on machines, communication to IPs, and registry modifications.
+When the sample is collected, Microsoft Defender ATP runs the file in a secure environment and creates a detailed report of observed behaviors and associated artifacts, such as files dropped on machines, communication to IPs, and registry modifications.
 
 **Submit files for deep analysis:**
 
